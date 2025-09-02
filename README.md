@@ -53,6 +53,7 @@ Completed a 4-month MERN Stack Internship developing a Hospital Management Syste
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="70" height=40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="70" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="70" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="70" height="40"/>
