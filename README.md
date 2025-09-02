@@ -61,7 +61,7 @@ Completed a 4-month MERN Stack Internship developing a Hospital Management Syste
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nawaf1208&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nawaf120&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nawaf1208&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
