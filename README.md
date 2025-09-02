@@ -76,8 +76,7 @@ Completed a 4-month MERN Stack Internship developing a Hospital Management Syste
 
 ---
 
-### 🤝 Open to 
-
+###
 🤝 Open to **DevOps / Cloud Roles**   
 📧 Let’s chat: [musthafanawaf@gmail.com](musthafanawaf@gmail.com)
 
