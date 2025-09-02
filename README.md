@@ -24,7 +24,7 @@ Completed a 4-month MERN Stack Internship developing a Hospital Management Syste
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nawaf1208](https://github.com/Nawaf1208)  
-- 💬 Ask me about **DevOps & Cloud **  
+- 💬 Ask me about **DevOps & Cloud**  
 - 📫 How to reach me **musthafanawaf@gmail.com**
 
 ---
