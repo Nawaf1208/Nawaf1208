@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone 👋, I'm Nawaf Mohammed Musthafa</h1>
+<h1 align="center">Hey Everyone 👋, I'm Nawaf Mohammed Musthafa</h1>
 
 <div align="center">
   <img src="DevOps.jpg" width="600" height="200" alt="DevOpsShack Banner">
