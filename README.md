@@ -23,7 +23,7 @@ Completed a 4-month MERN Stack Internship developing a Hospital Management Syste
   <img src="https://komarev.com/ghpvc/?username=Nawaf1208&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nawaf1208](https://github.com/Nawaf1208)  
+- 👨‍💻 All of my projects are available at [https://github.com/Nawaf1208](https://github.com/Nawaf1208?tab=repositories)  
 - 💬 Ask me about **DevOps & Cloud**  
 - 📫 How to reach me **musthafanawaf@gmail.com**
 
