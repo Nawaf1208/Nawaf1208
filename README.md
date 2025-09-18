@@ -60,9 +60,13 @@ Completed a 4-month MERN Stack Internship developing a Hospital Management Syste
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="70" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nawaf1208&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nawaf1208&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true&cache_seconds=86400" alt="Top Langs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nawaf1208&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nawaf1208&show_icons=true&locale=en&theme=vue&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+</p>
 
 ---
 ### 🔥 GitHub Contribution Streak
