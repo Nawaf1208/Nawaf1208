@@ -38,26 +38,42 @@ Completed a 4-month MERN Stack Internship developing a Hospital Management Syste
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- Cloud & DevOps -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21~bgwhite.svg" width="80" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" width="70" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+
+  <!-- Programming & Scripting -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+
+  <!-- Version Control -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40"/>
+
+  <!-- Databases & Servers -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="70" height=40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="70" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+
+  <!-- MERN Stack -->
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="70" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="70" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="70" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="70" height="40"/>
 </p>
 
 <p>
