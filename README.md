@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Nawaf Mohammed Musthafa</h1>
 
 <div align="center">
-  <img src="DevOps.png" width="600" height="200" alt="DevOpsShack Banner">
+  <img src="DevOps.png" width="900" height="300" alt="DevOpsShack Banner">
 </div>
 
 <h3 align="center">MCA Graduate specializing in DevOps and Cloud Engineering. <br>
