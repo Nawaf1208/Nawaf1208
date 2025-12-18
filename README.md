@@ -6,6 +6,7 @@
 
 <h3 align="center">MCA Graduate specializing in DevOps and Cloud Engineering. <br>
 Completed a 4-month MERN Stack Internship developing a Hospital Management System. <br>
+  AWS Certified Cloud Practitioner & AWS Certified AI Practitioner.
 </h3>
 
 <p align="center">
